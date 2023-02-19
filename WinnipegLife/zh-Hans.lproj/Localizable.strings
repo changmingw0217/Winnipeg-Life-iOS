@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  WinnipegLife
+
+  Created by changming wang on 8/29/21.
+  
+*/
+
+"Change Language" = "调整语言";
+"Home" = "主页";
+"Me" = "我的";
+"Messages" = "消息";
+"Restaurants" = "美食";
+"Search" = "搜索";
+"Loading.." = "正在加载资源..";
+"Search..." = "搜索...";
+"Winnipeg News" = "小温新闻";
+"More News" = "更多新闻";
+"Merchants" = "商家黄页";
+"More MerChants" = "更多商家";
+"Community" = "小温社区";
+"Go Coummnity" = "前往社区";
+"Rent" = "租房住房";
+"UsedGoods" = "二手买卖";
+"Employment" = "求职招聘";
+"Cars" = "汽车交易";
+"Immigration" = "移民护航";
+"Discoveries" = "本地探店";
+"Clubs" = "小温部落";
+"Setting" = "设置";
+
+"Pending" = "待定";
+"" = "";
+"" = "";
+"" = "";

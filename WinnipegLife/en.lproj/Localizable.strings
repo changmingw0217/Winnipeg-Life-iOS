@@ -1,0 +1,237 @@
+/* 
+  Localizable.strings
+  WinnipegLife
+
+  Created by changming wang on 8/29/21.
+  
+*/
+
+
+"全部" = "All";
+"灌水" = "Commenting";
+"租房" = "Rent";
+"二手" = "UsedGoods";
+"爆料" = "Tops";
+"聊天" = "Chats";
+"交友" = "Friends";
+"亲子" = "Parents";
+"宠物" = "Pets";
+
+
+"滑雪" = "Sking";
+"钓鱼" = "Fishing";
+"打靶" = "Riflery";
+"极光" = "Aurora";
+"篮球" = "Basketball";
+"乒乓" = "Pingpong";
+"足球" = "Soccer";
+
+"头条" = "Top News";
+"疫情" = "Covid-19";
+"本地" = "Local";
+"加国" = "Canada";
+"国内" = "China";
+"国际" = "International";
+"娱乐" = "Entertainment";
+
+"汽车" = "Cars";
+"地产" = "Real Estate";
+"就业" = "Employment";
+"移民" = "Immigration";
+"留学" = "Study Abroad";
+"家装" = "Decoration";
+"驾考" = "Driving";
+"教育" = "Education";
+
+"牛排" = "Steak";
+"海鲜" = "Seafood";
+"炸鸡" = "FriedChicken";
+"粤菜" = "Cantonese";
+"奶茶" = "BubbleTea";
+"披萨" = "Pizza";
+"自助" = "Buffet";
+"火锅" = "HotPot";
+"川菜" = "Sichuan";
+"烧烤" = "Barbecue";
+"甜点" = "Dessert";
+"料理" = "Japanese";
+"" = "";
+"" = "";
+
+
+"小温部落" = "Clubs";
+"小温社区" = "Community";
+"新闻频道" = "News";
+"本地探店" = "Local Discoveries";
+"商家黄页" = "Merchats";
+
+"系统消息" = "System Message";
+"软件设置" = "Setting";
+"帮助/反馈" = "Help/Feedback";
+"关于/联系" = "About/Contact Us";
+
+"个人信息" = "Personal";
+"头像" = "Avatar";
+"用户名" = "Username";
+"密码" = "Password";
+"邮箱" = "Email";
+
+
+"登录/注册" = "Login/Register";
+"登录" = "Login";
+"注册" = "Register";
+"登录账户" = "Login";
+"注册账户" = "Register";
+"退出登录" = "Logout";
+"取消" = "Cancel";
+"忘记密码?" = "Forget Password?";
+"请输入用户名" = "Please input username";
+"请输入密码" = "Please input password";
+"请输入邮箱" = "Please input email";
+"我已同意" = "I have read and agreed";
+"《用户协议》" = "《User Agreements》";
+"《隐私政策》" = "《Privacy Policy》";
+"密码(需包含字母与数字)" = "Password(Must contain numbers and letters)";
+"用户名(可包含中文，英文及数字)" = "Username";
+"正在登录" = "Logging";
+"正在注册" = "Registering";
+"修改" = "Change";
+"个人头像" = "Avatar";
+"确定要退出登录吗？" = "Are you sure you want to log out?";
+
+
+"删除" = "Delete";
+"您似乎还没有登录" = "You haven't logged in yet";
+"前往登录" = "Go to login page";
+"发送" = "Send";
+
+
+"发帖" = "New Post";
+"发布" = "Post";
+"帖子内容:" = "Content:";
+"内容分类" = "Categories";
+"更多分类" = "Subcategories";
+"请选择分类" = "Choice category";
+
+"回复" = "Reply to ";
+"楼主" = "Host";
+"说点什么吧.." = "Say something..";
+"暂无评论" = "No comments";
+"没有更多评论了" = "No more comments";
+"查看原帖" = "View original";
+"等待上传" = "Wating";
+"上传中..." = "Uploading";
+
+"没有更多数据了" = "No More Data";
+"暂无任何系统消息" = "No System Messages";
+"" = "";
+
+"我的订单" = "My Orders";
+"预约餐厅" = "Reservation";
+"查看全部图片" = "View All";
+"视频介绍" = "Shop Vedio";
+
+"店铺简介" = "Introduction";
+"地图导航" = "Navigation";
+"联系电话" = "Contact";
+"请选择导航软件" = "Choose Navigation App";
+"打开Apple地图" = "Open Apple Map";
+"打开Google地图" = "Open Google Map";
+
+
+"姓名" = "Name";
+"电话" = "Phone";
+"订餐人数" = "Number Of People";
+"订餐时间" = "Time";
+"备注(可选)" = "Note(Optional)";
+"预约" = "Reserve";
+"预约订单" = "Reserved Order";
+"预约时间" = "Time: ";
+"预约人数" = "Number of People: ";
+"" = "";
+
+"语言" = "Language";
+
+
+"商家名称" = "Name";
+"商家地区" = "Location";
+"详细介绍" = "Introduction";
+"全部分类" = "All categories";
+
+"修改密码" = "Change Password";
+"完成" = "Done";
+"原密码" = "Old Password";
+"修改用户名" = "Change Username";
+
+"用户名不能为空" = "Username is empty";
+"密码不能为空" = "Password is empty";
+"用户名不存在" = "Username does not exist";
+"用户名或密码错误" = "The username or password is incorrect";
+
+
+"服务器连接失败，请稍后重试" = "Server connection failed";
+"您似乎没有连接上互联网" = "No Interner";
+"邮箱不能为空" = "Email is empty";
+"邮箱格式不正确" = "The email format is incorrect";
+
+"邮箱已经被注册了" = "Email has been registered";
+"用户名和邮箱已存在" = "Username and email already exists";
+"注册前需同意《用户使用协议》" = "You need to agree 《User Agreement》";
+"密码需包含字母跟数字" = "Password must contain letters and digits";
+
+"密码长度不能小于6位" = "Password lenght less than 6";
+"用户名已存在" = "Username already exists";
+"注册通道关闭，请等待官方通知" = "Registration closed,please wait for official notification";
+"" = "";
+
+"原密码" = "Original Password";
+"新密码" = "New Password";
+"重复新密码" = "Confirm new password";
+"确定修改密码？" = "Are you sure want to change password";
+"确定" = "Yes!";
+"正在修改密码" = "Changing password";
+"两次输入的密码不一致" = "New passwords do not match";
+"原密码不匹配" = "Original password does not match";
+"新密码与原密码不能相同" = "New password must be different";
+"修改密码成功" = "Password changed successfully";
+"未知错误，请稍后重试" = "Unknown Error. Try later.";
+
+"*只有一次更改用户名的机会" = "*You only have one chance to change username";
+"用户使用协议" = "User Agreement";
+"隐私政策" = "Privacy Agreement";
+
+"您的邮箱" = "Your Email";
+"提交" = "Submit";
+"请输入正确的邮箱" = "Invalid Email.";
+"邮箱不存在" = "Email does not exist.";
+
+"链接发送成功，请检查邮箱" = "Link sent.Please check email.";
+"用户协议" = "User Agreements";
+"隐私政策" = "Privacy Policy";
+"正在上传头像" = "Uploading";
+
+"上传成功" = "Uploaded";
+"请先登录后再评论" = "Please login before comment.";
+"请先登录后再发帖" = "Please login before post.";
+"我的积分" = "Reward Points";
+
+"您当前的积分为: " = "Your current reward points are: ";
+"" = "";
+"" = "";
+"" = "";
+
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19206" systemVersion="20G95" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CategoryDict" representedClassName="CategoryDict" syncable="YES">
+        <attribute name="dict" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String:String]"/>
+    </entity>
+    <entity name="ClubID" representedClassName="ClubID" syncable="YES">
+        <attribute name="ids" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="name" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+    </entity>
+    <entity name="CommunityID" representedClassName="CommunityID" syncable="YES">
+        <attribute name="ids" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="name" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+    </entity>
+    <entity name="FoodId" representedClassName="foodNames" syncable="YES">
+        <attribute name="ids" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="name" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+    </entity>
+    <entity name="LocalDiscoveriesId" representedClassName="LocalDiscoveriesId" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="MerchantsID" representedClassName="MerchantsID" syncable="YES">
+        <attribute name="ids" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="name" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+    </entity>
+    <entity name="NewsId" representedClassName="NewsId" syncable="YES">
+        <attribute name="ids" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="name" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+    </entity>
+    <elements>
+        <element name="CategoryDict" positionX="-9" positionY="63" width="128" height="44"/>
+        <element name="ClubID" positionX="18" positionY="90" width="128" height="59"/>
+        <element name="CommunityID" positionX="0" positionY="72" width="128" height="59"/>
+        <element name="FoodId" positionX="0" positionY="63" width="128" height="59"/>
+        <element name="LocalDiscoveriesId" positionX="-18" positionY="54" width="128" height="44"/>
+        <element name="MerchantsID" positionX="-18" positionY="54" width="128" height="59"/>
+        <element name="NewsId" positionX="-36" positionY="9" width="128" height="59"/>
+    </elements>
+</model>
